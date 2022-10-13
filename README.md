@@ -1,2 +1,2 @@
 # simpleToDo
-Simple ToDo App
+Simple ToDo App from scratch
